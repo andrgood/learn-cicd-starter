@@ -2,7 +2,8 @@
 
 ![code coverage badge](https://github.com/andrgood/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
-SIMPLE CHANGE FOR LESSON
+ - SIMPLE CHANGE FOR LESSON
+ - CHANGE 2 STYLE
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
